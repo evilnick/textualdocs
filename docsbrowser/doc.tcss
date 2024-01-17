@@ -1,0 +1,9 @@
+#nav{
+    height: 100%;
+    width: 18%;
+    margin: 0 0 0 1;
+    background: $panel;
+    color: $text;
+    border: tall $background;
+    padding: 1 2;
+}

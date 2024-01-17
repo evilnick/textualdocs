@@ -1,0 +1,12 @@
+- Home
+  - Tutorials
+    - Getting started
+  - How To
+    - Install
+    - Configure
+    - Upgrade
+    - Uninstall
+  - Explanation
+    - Overview
+  - Reference
+    - Release notes

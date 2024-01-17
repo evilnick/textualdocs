@@ -1,0 +1,21 @@
+tutorial:
+   - name: 'Tutorial'
+   - url: './jkjkdj.md'
+   - children:
+       started:
+           - name:'Get started'
+           - url: './how-to/install.md'
+           - md: "jkfjdkfdjfk jkdsfj lf fjfkl fk\n \r fjkfjfllfsjfjslj jfslfs k"
+how-to:
+   - name: 'How-to'
+   - url: './jkjkdj.md'
+   - children:
+       install:
+           - name:'Install'
+           - url: './how-to/install.md'
+           - md: "jkfjdkfdjfk jkdsfj lf fjfkl fk\n \r fjkfjfllfsjfjslj jfslfs k"
+           - children:
+                install-offline:
+                    - name:'Install'
+                    - url: './how-to/install.md'
+                    - md: "jkfjdkfdjfk jkdsfj lf fjfkl fk\n \r fjkfjfllfsjfjslj jfslfs k"
